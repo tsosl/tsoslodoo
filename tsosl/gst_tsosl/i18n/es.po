@@ -1,0 +1,43 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* gst_tsosl
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-23 16:15+0000\n"
+"PO-Revision-Date: 2022-03-23 16:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: gst_tsosl
+#: model:ir.model.fields,field_description:gst_tsosl.field_crm_lead__x_studio_descuento_1
+msgid "Descuento"
+msgstr ""
+
+#. module: gst_tsosl
+#: code:addons/gst_tsosl/models/crm_lead.py:0
+#, python-format
+msgid "Discount greater than 20% not allowed."
+msgstr "Descuento superior al 20% no permitido"
+
+#. module: gst_tsosl
+#: model:ir.model,name:gst_tsosl.model_crm_lead
+msgid "Lead/Opportunity"
+msgstr "Iniciativa/Oportunidad"
+
+#. module: gst_tsosl
+#: model:ir.model.fields,field_description:gst_tsosl.field_crm_lead__x_studio_precio_final_de_venta
+msgid "Precio Final de Venta"
+msgstr ""
+
+#. module: gst_tsosl
+#: code:addons/gst_tsosl/models/crm_lead.py:0
+#, python-format
+msgid "Warning"
+msgstr "Error"
